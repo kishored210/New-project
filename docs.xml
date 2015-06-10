@@ -15,6 +15,7 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 -->
+hello world
 <project name="docs" default="txt2html">
 
     <available property="jdk1.5+" classname="java.net.Proxy"/>
